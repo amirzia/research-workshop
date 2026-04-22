@@ -1,0 +1,15 @@
+Docker is a platform for developing, shipping, and running applications.
+Docker enables you to separate your applications from your infrastructure
+so you can deliver software quickly. With Docker, you can manage your
+infrastructure in the same ways you manage your applications.
+
+Containers allow a developer to package up an application with all the
+parts it needs, such as libraries and other dependencies, and ship it all
+out as one package. This way, the developer can be sure the application
+will run on any other machine regardless of any customized settings that
+machine might have that could differ from the machine used for writing
+and testing the code.
+
+Docker uses a layered file system. Each layer builds on the previous one,
+making containers lightweight and fast. Docker containers share the host
+operating system kernel, which makes them more efficient than virtual machines.

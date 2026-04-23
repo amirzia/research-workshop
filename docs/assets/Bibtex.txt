@@ -1,0 +1,8 @@
+@misc{ziaeibideh2026research-workshop,
+  author = {Ziaei Bideh, Amirmohammad},
+  title = {Marking Your Research Reproducible, Usable and Visible},
+  year = {2026},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/amirzia/research-workshop}},
+  note = {Accessed: 2026-04-23}
+}
